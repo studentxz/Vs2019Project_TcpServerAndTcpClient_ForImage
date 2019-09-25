@@ -1,0 +1,10 @@
+D:\vsProject\VS2019Project\VideoReceiver\VideoReceiver\bin\Debug\netcoreapp2.2\VideoReceiver.deps.json
+D:\vsProject\VS2019Project\VideoReceiver\VideoReceiver\bin\Debug\netcoreapp2.2\VideoReceiver.runtimeconfig.json
+D:\vsProject\VS2019Project\VideoReceiver\VideoReceiver\bin\Debug\netcoreapp2.2\VideoReceiver.runtimeconfig.dev.json
+D:\vsProject\VS2019Project\VideoReceiver\VideoReceiver\bin\Debug\netcoreapp2.2\VideoReceiver.dll
+D:\vsProject\VS2019Project\VideoReceiver\VideoReceiver\bin\Debug\netcoreapp2.2\VideoReceiver.pdb
+D:\vsProject\VS2019Project\VideoReceiver\VideoReceiver\obj\Debug\netcoreapp2.2\VideoReceiver.AssemblyInfoInputs.cache
+D:\vsProject\VS2019Project\VideoReceiver\VideoReceiver\obj\Debug\netcoreapp2.2\VideoReceiver.AssemblyInfo.cs
+D:\vsProject\VS2019Project\VideoReceiver\VideoReceiver\obj\Debug\netcoreapp2.2\VideoReceiver.dll
+D:\vsProject\VS2019Project\VideoReceiver\VideoReceiver\obj\Debug\netcoreapp2.2\VideoReceiver.pdb
+D:\vsProject\VS2019Project\VideoReceiver\VideoReceiver\obj\Debug\netcoreapp2.2\VideoReceiver.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\vsProject\VS2019Project\TCPClientForImage\TCPClientForImage\bin\Debug\netcoreapp3.0\TCPClientForImage.exe
+D:\vsProject\VS2019Project\TCPClientForImage\TCPClientForImage\bin\Debug\netcoreapp3.0\TCPClientForImage.deps.json
+D:\vsProject\VS2019Project\TCPClientForImage\TCPClientForImage\bin\Debug\netcoreapp3.0\TCPClientForImage.runtimeconfig.json
+D:\vsProject\VS2019Project\TCPClientForImage\TCPClientForImage\bin\Debug\netcoreapp3.0\TCPClientForImage.runtimeconfig.dev.json
+D:\vsProject\VS2019Project\TCPClientForImage\TCPClientForImage\bin\Debug\netcoreapp3.0\TCPClientForImage.dll
+D:\vsProject\VS2019Project\TCPClientForImage\TCPClientForImage\bin\Debug\netcoreapp3.0\TCPClientForImage.pdb
+D:\vsProject\VS2019Project\TCPClientForImage\TCPClientForImage\obj\Debug\netcoreapp3.0\TCPClientForImage.csprojAssemblyReference.cache
+D:\vsProject\VS2019Project\TCPClientForImage\TCPClientForImage\obj\Debug\netcoreapp3.0\TCPClientForImage.AssemblyInfoInputs.cache
+D:\vsProject\VS2019Project\TCPClientForImage\TCPClientForImage\obj\Debug\netcoreapp3.0\TCPClientForImage.AssemblyInfo.cs
+D:\vsProject\VS2019Project\TCPClientForImage\TCPClientForImage\obj\Debug\netcoreapp3.0\TCPClientForImage.dll
+D:\vsProject\VS2019Project\TCPClientForImage\TCPClientForImage\obj\Debug\netcoreapp3.0\TCPClientForImage.pdb
